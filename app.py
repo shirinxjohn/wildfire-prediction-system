@@ -540,9 +540,3 @@ with tab3:
     st.pyplot(fig5)
     plt.close()
 
-# ── Footer ──
-st.markdown("---")
-st.markdown(
-    '<p style="text-align:center; color:#444; font-size:0.8rem;">Built with Python · Streamlit · XGBoost · Matplotlib</p>',
-    unsafe_allow_html=True
-)
